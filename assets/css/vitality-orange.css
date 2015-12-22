@@ -265,7 +265,7 @@ header {
   display: block;
   height: auto;
   width: auto;
-  background-color: #222222;
+  background-color: #fff1b7;
   background: no-repeat center center;
   background-attachment: scroll;
   -webkit-background-size: cover;
@@ -275,7 +275,7 @@ header {
   padding: 100px 0;
 }
 header .intro-content {
-  color: white;
+  color: #fff1b7;
   text-align: center;
   position: relative;
 }
@@ -310,15 +310,15 @@ header .scroll-down .btn {
   line-height: 50px;
   padding: 0;
   letter-spacing: normal;
-  color: white;
+  color: #fff1b7;
   font-size: 30px;
   -webkit-transition: all 0.5s;
   -moz-transition: all 0.5s;
   transition: all 0.5s;
 }
 header .scroll-down .btn:hover {
-  color: rgba(255, 255, 255, 0.5);
-  border-color: rgba(255, 255, 255, 0.5);
+  color: #fff1b7;
+  border-color: #fff1b7;
   outline: none;
 }
 @media (min-width: 768px) {
@@ -329,7 +329,7 @@ header .scroll-down .btn:hover {
     background-attachment: scroll;
   }
   header .intro-content {
-    color: white;
+    color: #fff1b7;
     text-align: center;
     width: 50%;
     margin: auto;
