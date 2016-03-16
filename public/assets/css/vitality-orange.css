@@ -114,7 +114,7 @@ p {
   line-height: 1.5;
 }
 p.lead {
-  font-family: Yellowtail
+  font-family: Yellowtail;
   font-variant: normal;
   font-weight: 900;
   text-transform: uppercase;
@@ -126,7 +126,7 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: Yellowtail
+  font-family: Yellowtail;
   font-variant: normal;
   font-weight: 900;
   text-transform: uppercase;
@@ -283,7 +283,7 @@ header .intro-content {
   position: relative;
 }
 header .brand-name {
-  font-family: Yellowtail
+  font-family: Yellowtail;
   font-variant: normal;
   font-size: 55px;
   line-height: 55px;
@@ -444,7 +444,7 @@ aside.cta-quote span.quote {
   display: inline-block;
 }
 .testimonials .testimonials-carousel .item .testimonial-info .testimonial-author .name {
-  font-family: Yellowtail
+  font-family: Yellowtail;
   font-variant: normal;
   font-weight: 900;
   text-transform: uppercase;
@@ -647,7 +647,7 @@ aside.cta-quote span.quote {
   font-size: 40px;
   line-height: 40px;
   margin-bottom: 5px;
-  font-family: Yellowtail
+  font-family: Yellowtail;
   font-variant: normal;
   font-weight: 900;
   text-transform: uppercase;
