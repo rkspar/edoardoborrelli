@@ -114,7 +114,7 @@ p {
   line-height: 1.5;
 }
 p.lead {
-  font-family: 'Pinyon Script';
+  font-family: Yellowtail;
   font-weight: 900;
   text-transform: uppercase;
   font-size: 24px;
@@ -125,7 +125,7 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: 'Pinyon Script';
+  font-family: Yellowtail;
   font-weight: 900;
   text-transform: uppercase;
 }
@@ -281,7 +281,7 @@ header .intro-content {
   position: relative;
 }
 header .brand-name {
-  font-family: 'Pinyon Script';
+  font-family: Yellowtail;
   font-size: 55px;
   line-height: 55px;
   text-transform: uppercase;
@@ -441,7 +441,7 @@ aside.cta-quote span.quote {
   display: inline-block;
 }
 .testimonials .testimonials-carousel .item .testimonial-info .testimonial-author .name {
-  font-family: 'Pinyon Script';
+  font-family: Yellowtail;
   font-weight: 900;
   text-transform: uppercase;
 }
@@ -643,7 +643,7 @@ aside.cta-quote span.quote {
   font-size: 40px;
   line-height: 40px;
   margin-bottom: 5px;
-  font-family: 'Pinyon Script';
+  font-family: Yellowtail;
   font-weight: 900;
   text-transform: uppercase;
 }
