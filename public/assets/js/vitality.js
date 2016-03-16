@@ -86,8 +86,8 @@
     // Formstone Background - Video Background Settings
     $("header.video").background({
         source: {
-            poster: "assets/img/borrelli.jpg",
-            mp4: "assets/mp4/borrellitailor.mp4"
+            poster: "assets/img/cover.png",
+            
         }
     });
 

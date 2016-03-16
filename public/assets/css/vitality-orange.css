@@ -265,6 +265,7 @@ header {
   display: block;
   height: auto;
   width: auto;
+  background-image: "assets/img/cover.png";
   background-color: #fff1b7;
   background: no-repeat center center;
   background-attachment: scroll;
